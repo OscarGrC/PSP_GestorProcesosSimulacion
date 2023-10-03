@@ -1,0 +1,6 @@
+Nombre,Prioridad,TiempoServicio,TiempoInicio
+P1,0,10,0
+P2,0,8,1
+P3,1,4,2
+P4,2,5,2
+P5,3,3,0
